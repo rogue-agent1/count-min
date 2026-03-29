@@ -1,6 +1,6 @@
-# count-min
+# count-min-sketch
 
-Count-Min Sketch for frequency estimation
+Count-Min Sketch. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
@@ -8,4 +8,6 @@ Count-Min Sketch for frequency estimation
 python3 count_min.py --help
 ```
 
-Zero dependencies. Python 3.8+.
+## License
+
+MIT
