@@ -1,11 +1,10 @@
-# count_min
+# count-min
 
-count_min - Count-Min Sketch for approximate frequency estimation.
-
-Zero-dependency, single-file Python CLI.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
 python3 count_min.py
+python3 count_min.py test
 ```
